@@ -8,9 +8,15 @@
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marlon-masabanda-6b4984239/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:marlon25.masabanda@proton.me)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-4285F4?style=flat-square&logo=google-chrome&logoColor=white)](https://my-portfolio-six-gray-69.vercel.app/)
-[![Profile Views](https://komarev.com/ghpvc/?username=YasArcher&label=Profile%20Views&color=0e75b6&style=flat-square)](https://github.com/YasArcher)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-4285F4?style=flat-square&logo=google-chrome&logoColor=white)](https://tu-portafolio.vercel.app/)
+![Profile Views](https://komarev.com/ghpvc/?username=YasArcher&label=Profile%20Views&color=0e75b6&style=flat-square&logo=github)
 
+<!-- Alternativas de contador de vistas -->
+<!-- 
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=YasArcher.YasArcher&left_color=gray&right_color=blue)
+![GitHub followers](https://img.shields.io/github/followers/YasArcher?style=flat-square&color=0e75b6)
+![GitHub User's stars](https://img.shields.io/github/stars/YasArcher?style=flat-square&color=0e75b6)
+-->
 
 </div>
 
@@ -39,89 +45,114 @@ Backend-oriented developer with expertise in:
 
 ## 🛠️ Technology Stack
 
+<div align="center">
+
 ### **Backend & Architecture**
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+<img src="https://skillicons.dev/icons?i=dotnet,cs,nodejs,express,flask,fastapi&theme=dark" />
 
 ### **Frontend & UI**
-![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<img src="https://skillicons.dev/icons?i=react,typescript,blazor,tailwind,html,css&theme=dark" />
 
 ### **Databases & Analytics**
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power%20bi&logoColor=black)
+<img src="https://skillicons.dev/icons?i=sqlserver,postgresql,mongodb,sqlite,redis&theme=dark" />
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power%20bi&logoColor=black" />
 
 ### **DevOps & Tools**
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+<img src="https://skillicons.dev/icons?i=azure,git,github,docker,postman,vscode&theme=dark" />
+
+### **Mobile & Additional**
+<img src="https://skillicons.dev/icons?i=kotlin,supabase,vercel,figma&theme=dark" />
+
+</div>
 
 ---
 
 ## 🏆 Featured Projects
 
-### 🔐 **Secure Repository Platform**
-> Advanced file management system with enterprise-grade security
+<div align="center">
 
-**Key Features:**
-- 🔒 Double AES-128 encryption
-- 🔑 Two-factor authentication (2FA)
-- 👥 Role-based access control (RBAC)
-- ✍️ Digital signature verification
+### 🛡️ **Secure Repository Platform**
+*Advanced file management system with enterprise-grade security*
 
-**Tech Stack:** React + Flask + PostgreSQL
+<div align="left" style="margin: 20px;">
 
-[![Frontend](https://img.shields.io/badge/Frontend_Repo-181717?style=flat-square&logo=github)](https://github.com/YasArcher/secure-repository-front)
-[![Backend](https://img.shields.io/badge/Backend_Repo-181717?style=flat-square&logo=github)](https://github.com/Dionisio202/Repositorio_Seguridad)
+**🎯 Key Features:**
+- 🔐 **Double AES-128 encryption** - Military-grade security
+- 🔑 **Two-factor authentication (2FA)** - Enhanced access control  
+- 👥 **Role-based access control (RBAC)** - Granular permissions
+- ✍️ **Digital signature verification** - Document authenticity
+
+**🚀 Tech Stack:** 
+<img src="https://skillicons.dev/icons?i=react,flask,postgresql&theme=dark" height="30"/>
+
+[![Frontend](https://img.shields.io/badge/🎨_Frontend-React-61DAFB?style=flat-square&logo=react&logoColor=white)](https://github.com/YasArcher/secure-repository-front)
+[![Backend](https://img.shields.io/badge/⚙️_Backend-Flask-000000?style=flat-square&logo=flask&logoColor=white)](https://github.com/Dionisio202/Repositorio_Seguridad)
+
+</div>
 
 ---
 
 ### 📊 **DIDE Project Tracking System**
-> University research project monitoring with BI integration
+*University research project monitoring with BI integration*
 
-**Key Features:**
-- 📈 Real-time progress tracking
-- 📊 Interactive Power BI dashboards
-- 🔄 Automated reporting workflows
-- 👨‍🎓 Academic milestone management
+<div align="left" style="margin: 20px;">
 
-**Tech Stack:** Blazor + .NET Core + SQL Server + Power BI
+**🎯 Key Features:**
+- 📈 **Real-time progress tracking** - Live project updates
+- 📊 **Interactive Power BI dashboards** - Visual analytics
+- 🔄 **Automated reporting workflows** - Streamlined processes  
+- 👨‍🎓 **Academic milestone management** - Educational focus
+
+**🚀 Tech Stack:**
+<img src="https://skillicons.dev/icons?i=blazor,dotnet,sqlserver&theme=dark" height="30"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=power%20bi&logoColor=black" height="30"/>
+
+[![Repository](https://img.shields.io/badge/📁_Private_Repository-Blazor_+_.NET-5C2D91?style=flat-square&logo=dotnet&logoColor=white)](#)
+
+</div>
 
 ---
 
 ### 💰 **Credit & Investment Simulator**
-> Financial modeling tool with advanced calculation engines
+*Financial modeling tool with advanced calculation engines*
 
-**Key Features:**
-- 📊 Credit amortization simulation
-- 💹 Investment return analysis
-- ⚙️ Real-time configuration
-- 🎨 Personalized user interface
+<div align="left" style="margin: 20px;">
 
-**Tech Stack:** React + Express.js + SQL Server
+**🎯 Key Features:**
+- 📊 **Credit amortization simulation** - Loan calculations
+- 💹 **Investment return analysis** - ROI projections
+- ⚙️ **Real-time configuration** - Dynamic parameters
+- 🎨 **Personalized user interface** - Custom UX
 
-[![Frontend](https://img.shields.io/badge/Frontend_Repo-181717?style=flat-square&logo=github)](https://github.com/Dionisio202/simulador-credito)
-[![Backend](https://img.shields.io/badge/Backend_Repo-181717?style=flat-square&logo=github)](https://github.com/YasArcher/back-economia)
+**🚀 Tech Stack:**
+<img src="https://skillicons.dev/icons?i=react,express,sqlserver&theme=dark" height="30"/>
+
+[![Frontend](https://img.shields.io/badge/🎨_Frontend-React-61DAFB?style=flat-square&logo=react&logoColor=white)](https://github.com/Dionisio202/simulador-credito)
+[![Backend](https://img.shields.io/badge/⚙️_Backend-Express-000000?style=flat-square&logo=express&logoColor=white)](https://github.com/YasArcher/back-economia)
+
+</div>
 
 ---
 
 ### 📱 **Neighborhood Store Manager**
-> Offline-ready mobile solution for local businesses
+*Offline-ready mobile solution for local businesses*
 
-**Key Features:**
-- 📦 Inventory management
-- 💵 Sales tracking
-- 🏪 Small business focused
+<div align="left" style="margin: 20px;">
 
-**Tech Stack:** Kotlin + SupaBase
+**🎯 Key Features:**
+- 📦 **Inventory management** - Stock control system
+- 💵 **Sales tracking** - Revenue analytics
+- 📴 **Offline functionality** - Works without internet
+- 🏪 **Small business focused** - Local commerce support
 
-[![Mobile App](https://img.shields.io/badge/Mobile_Repo-181717?style=flat-square&logo=github)](https://github.com/YasArcher/ProyectoMovilKotlin)
+**🚀 Tech Stack:**
+<img src="https://skillicons.dev/icons?i=kotlin,supabase&theme=dark" height="30"/>
+
+[![Mobile App](https://img.shields.io/badge/📱_Mobile_App-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)](https://github.com/YasArcher/ProyectoMovilKotlin)
+
+</div>
+
+</div>
 
 ---
 
@@ -131,9 +162,20 @@ Backend-oriented developer with expertise in:
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=YasArcher&show_icons=true&theme=tokyonight&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasArcher&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
+
+<!-- Backup alternativo con servidores diferentes -->
+<!--
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=YasArcher&show_icons=true&theme=tokyonight"/>
+  <br/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YasArcher&layout=compact&theme=tokyonight"/>
+</div>
+-->
+
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YasArcher&theme=tokyonight&hide_border=true"/>
 </div>
+
 ---
 
 ## 🎯 Current Focus
@@ -153,7 +195,7 @@ Backend-oriented developer with expertise in:
 |----------|------|---------|
 | 💼 **LinkedIn** | [Marlon Masabanda](https://www.linkedin.com/in/marlon-masabanda-6b4984239/) | Professional networking |
 | 📧 **Email** | [marlon25.masabanda@proton.me](mailto:marlon25.masabanda@proton.me) | Direct contact |
-| 🌐 **Portfolio** | [Visit Portfolio](https://my-portfolio-six-gray-69.vercel.app/) | View my work |
+| 🌐 **Portfolio** | [Visit Portfolio](https://tu-portafolio.vercel.app/) | View my work |
 | 💻 **GitHub** | [@YasArcher](https://github.com/YasArcher) | Code repositories |
 
 </div>
