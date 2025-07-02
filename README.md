@@ -2,8 +2,8 @@
 
 🎯 **Full-Stack Developer** focused on secure APIs, clean architecture, and business process automation.
 
-![Profile Views](https://komarev.com/ghpvc/?username=marlon-masabanda&color=blueviolet)
-![Followers](https://img.shields.io/github/followers/marlon-masabanda?style=social)
+![Profile Views](https://komarev.com/ghpvc/?username=YasArcher&color=blueviolet)
+![Followers](https://img.shields.io/github/followers/YasArcher?style=social)
 
 ---
 
