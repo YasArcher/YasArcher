@@ -8,7 +8,7 @@
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marlon-masabanda-6b4984239/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:marlon25.masabanda@proton.me)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-4285F4?style=flat-square&logo=google-chrome&logoColor=white)](https://tu-portafolio.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-4285F4?style=flat-square&logo=google-chrome&logoColor=white)](https://my-portfolio-six-gray-69.vercel.app/#presentacion)
 ![Profile Views](https://komarev.com/ghpvc/?username=YasArcher&label=Profile%20Views&color=0e75b6&style=flat-square&logo=github)
 
 <!-- Alternativas de contador de vistas -->
@@ -184,7 +184,7 @@ Backend-oriented developer with expertise in:
 |----------|------|---------|
 | 💼 **LinkedIn** | [Marlon Masabanda](https://www.linkedin.com/in/marlon-masabanda-6b4984239/) | Professional networking |
 | 📧 **Email** | [marlon25.masabanda@proton.me](mailto:marlon25.masabanda@proton.me) | Direct contact |
-| 🌐 **Portfolio** | [Visit Portfolio](https://tu-portafolio.vercel.app/) | View my work |
+| 🌐 **Portfolio** | [Visit Portfolio](https://my-portfolio-six-gray-69.vercel.app/#presentacion) | View my work |
 | 💻 **GitHub** | [@YasArcher](https://github.com/YasArcher) | Code repositories |
 
 </div>
