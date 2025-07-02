@@ -1,123 +1,171 @@
-<h1 align="center">Hey 👋 I'm Marlon Masabanda</h1>
-<p align="center">
-  <img src="./banner.jpg" alt="Marlon Masabanda Banner" />
-</p>
+# 👋 Marlon Masabanda
 
 <div align="center">
-  <h3>Full-Stack Developer | Clean Architecture Enthusiast | BI & Academic Systems</h3>
-  <p>🎓 Software Engineering Student at Universidad Técnica de Ambato</p>
-  <p>🔐 Focused on secure APIs, backend efficiency and digital transformation</p>
-  <p>📊 Passionate about building solutions with .NET, Blazor, SQL Server & Power BI</p>
+  <img src="./banner.jpg" alt="Marlon Masabanda Banner" width="100%" />
 </div>
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marlon-masabanda-6b4984239/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:marlon25.masabanda@proton.me)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-4285F4?style=flat-square&logo=google-chrome&logoColor=white)](https://tu-portafolio.vercel.app/)
+[![Profile Views](https://komarev.com/ghpvc/?username=YasArcher&label=Profile%20Views&color=0e75b6&style=flat-square)](https://github.com/YasArcher)
+
+</div>
+
+## 🚀 Full-Stack Developer | Clean Architecture Enthusiast
+
+> 🎓 **Software Engineering Student** at Universidad Técnica de Ambato  
+> 🌍 **Based in** Ambato, Ecuador — Open to remote opportunities  
+> 🔐 **Specialized in** secure APIs, backend efficiency and digital transformation  
+> 📊 **Passionate about** building solutions with .NET, Blazor, SQL Server & Power BI
 
 ---
 
-## 🧠 About Me
+## 💡 About Me
 
-- 💻 Backend-oriented developer experienced in **.NET Core**, **Express.js**, and **SQL Server**
-- 🧱 Clean code advocate using **DDD**, **Hexagonal Architecture**, and secure API patterns
-- 🌎 Based in Ambato, Ecuador — Open to remote opportunities and international collaboration
+```
+Backend-oriented developer with expertise in:
+├── 🏗️  Clean Architecture (DDD, Hexagonal Architecture)
+├── 🔒  Secure API development and authentication
+├── 📊  Business Intelligence and data visualization
+└── 🌐  Full-stack web application development
+```
+
+**Current Focus:** Building scalable, secure systems for academic and business intelligence applications.
 
 ---
 
-## 🚀 Tech Stack
+## 🛠️ Technology Stack
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,react,nodejs,express,cs,dotnet,blazor,tailwind,postgres,mysql,mongodb,azure,git,github" />
-</div>
+### **Backend & Architecture**
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+
+### **Frontend & UI**
+![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### **Databases & Analytics**
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power%20bi&logoColor=black)
+
+### **DevOps & Tools**
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
 ## 🏆 Featured Projects
 
+### 🔐 **Secure Repository Platform**
+> Advanced file management system with enterprise-grade security
+
+**Key Features:**
+- 🔒 Double AES-128 encryption
+- 🔑 Two-factor authentication (2FA)
+- 👥 Role-based access control (RBAC)
+- ✍️ Digital signature verification
+
+**Tech Stack:** React + Flask + PostgreSQL
+
+[![Frontend](https://img.shields.io/badge/Frontend_Repo-181717?style=flat-square&logo=github)](https://github.com/YasArcher/secure-repository-front)
+[![Backend](https://img.shields.io/badge/Backend_Repo-181717?style=flat-square&logo=github)](https://github.com/Dionisio202/Repositorio_Seguridad)
+
+---
+
+### 📊 **DIDE Project Tracking System**
+> University research project monitoring with BI integration
+
+**Key Features:**
+- 📈 Real-time progress tracking
+- 📊 Interactive Power BI dashboards
+- 🔄 Automated reporting workflows
+- 👨‍🎓 Academic milestone management
+
+**Tech Stack:** Blazor + .NET Core + SQL Server + Power BI
+
+---
+
+### 💰 **Credit & Investment Simulator**
+> Financial modeling tool with advanced calculation engines
+
+**Key Features:**
+- 📊 Credit amortization simulation
+- 💹 Investment return analysis
+- ⚙️ Real-time configuration
+- 🎨 Personalized user interface
+
+**Tech Stack:** React + Express.js + SQL Server
+
+[![Frontend](https://img.shields.io/badge/Frontend_Repo-181717?style=flat-square&logo=github)](https://github.com/Dionisio202/simulador-credito)
+[![Backend](https://img.shields.io/badge/Backend_Repo-181717?style=flat-square&logo=github)](https://github.com/YasArcher/back-economia)
+
+---
+
+### 📱 **Neighborhood Store Manager**
+> Offline-ready mobile solution for local businesses
+
+**Key Features:**
+- 📦 Inventory management
+- 💵 Sales tracking
+- 📴 Offline functionality
+- 🏪 Small business focused
+
+**Tech Stack:** Kotlin + SQLite
+
+[![Mobile App](https://img.shields.io/badge/Mobile_Repo-181717?style=flat-square&logo=github)](https://github.com/YasArcher/ProyectoMovilKotlin)
+
+---
+
+## 📈 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YasArcher&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasArcher&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YasArcher&theme=tokyonight&hide_border=true"/>
+</div>
+
+---
+
+## 🎯 Current Focus
+
+- 🏗️ **Architecture:** Implementing microservices patterns in academic systems
+- 🔐 **Security:** Advanced authentication and encryption mechanisms
+- 📊 **BI Integration:** Power BI embedded analytics in web applications
+- 🌐 **APIs:** RESTful and GraphQL API development with .NET Core
+
+---
+
+## 🤝 Let's Connect
+
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center" width="300">
-      <img src="./repositorio-seguro.png" width="250" alt="Secure Repository"/><br>
-      <h3>Secure Repository</h3>
-      <p align="justify">Web platform for encrypted file management, featuring double AES-128 encryption, 2FA, role-based access control, and digital signatures.</p>
-      <a href="https://github.com/YasArcher/secure-repository-front" target="_blank">
-        <img src="https://img.shields.io/badge/FRONTEND-blue?style=for-the-badge&logo=react&logoColor=white">
-      </a>
-      <a href="https://github.com/Dionisio202/Repositorio_Seguridad" target="_blank">
-        <img src="https://img.shields.io/badge/BACKEND-green?style=for-the-badge&logo=flask&logoColor=white">
-      </a>
-    </td>
-    <td align="center" width="300">
-      <img src="./seguimiento-dide.png" width="250" alt="DIDE Tracker"/><br>
-      <h3>DIDE Project Tracking</h3>
-      <p align="justify">System for monitoring university research projects and visualizing progress via BI dashboards built with Blazor, .NET Core and Power BI.</p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="300">
-      <img src="./simulador-finanzas.png" width="250" alt="Financial Simulator"/><br>
-      <h3>Credit & Investment Simulator</h3>
-      <p align="justify">Simulates credit amortization and investment returns with real-time config, user interface personalization and custom interest calculations.</p>
-      <a href="https://github.com/YasArcher/back-economia" target="_blank">
-        <img src="https://img.shields.io/badge/BACKEND-green?style=for-the-badge&logo=node.js&logoColor=white">
-      </a>
-      <a href="https://github.com/Dionisio202/simulador-credito" target="_blank">
-        <img src="https://img.shields.io/badge/FRONTEND-blue?style=for-the-badge&logo=react&logoColor=white">
-      </a>
-    </td>
-    <td align="center" width="300">
-      <img src="./store-app.png" width="250" alt="Store Manager"/><br>
-      <h3>Neighborhood Store Manager</h3>
-      <p align="justify">Offline-ready mobile app to manage inventory and sales in local stores. Built with Kotlin for simplicity and adaptability in underserved areas.</p>
-      <a href="https://github.com/YasArcher/ProyectoMovilKotlin" target="_blank">
-        <img src="https://img.shields.io/badge/MOBILE-Kotlin-orange?style=for-the-badge&logo=kotlin&logoColor=white">
-      </a>
-    </td>
-  </tr>
-</table>
+| Platform | Link | Purpose |
+|----------|------|---------|
+| 💼 **LinkedIn** | [Marlon Masabanda](https://www.linkedin.com/in/marlon-masabanda-6b4984239/) | Professional networking |
+| 📧 **Email** | [marlon25.masabanda@proton.me](mailto:marlon25.masabanda@proton.me) | Direct contact |
+| 🌐 **Portfolio** | [Visit Portfolio](https://tu-portafolio.vercel.app/) | View my work |
+| 💻 **GitHub** | [@YasArcher](https://github.com/YasArcher) | Code repositories |
 
 </div>
 
 ---
 
-## 🛠️ What I'm Working On
-
-- 📊 Project tracking system for institutional research with **Blazor + Power BI**
-- 🔐 Secure repository with 2FA and AES-128 double encryption (**React + Flask**)
-- 🧾 Smart PDF handling with digital signatures and password-protected access
-- 💸 Credit & investment simulator with backend logic in **Express + SQL Server**
-
----
-
-## 📈 GitHub Stats
-
 <div align="center">
-  <a href="https://github.com/YasArcher">
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasArcher&layout=compact&theme=tokyonight&langs_count=10" alt="Top Languages"/>
-  </a>
-  <br>
-  <a href="https://github.com/YasArcher">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=YasArcher&theme=tokyonight&hide_border=false" alt="GitHub Streak"/>
-  </a>
-</div>
-
----
-
-## 📬 Contact & Connect
-
-<div align="center">
+  <h3>💭 Always open to new challenges and collaborations!</h3>
+  <p><em>"Clean code is not written by following a set of rules. Clean code is written by a programmer who has been thinking about the problem."</em></p>
   
-[![Email](https://img.shields.io/badge/Email-marlon25.masabanda@proton.me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marlon25.masabanda@proton.me)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Marlon%20Masabanda-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marlon-masabanda-6b4984239/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://tu-portafolio.vercel.app/)
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YasArcher&label=Profile%20Views&color=blueviolet&style=for-the-badge&logo=github" alt="Profile Views"/>
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Clean+Code+Enthusiast;Always+Learning+New+Tech;Open+to+Collaborations!)
   
-  <br><br>
-  
-  **Thank you for visiting my GitHub 👋**  
-  _Always open to new challenges and collaborations!_
 </div>
