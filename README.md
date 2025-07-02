@@ -62,8 +62,8 @@
 
 ## 📊 GitHub Stats
 
-![Marlon GitHub Stats](https://github-readme-stats.vercel.app/api?username=marlon-masabanda&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marlon-masabanda&layout=compact&theme=tokyonight)
+![Marlon GitHub Stats](https://github-readme-stats.vercel.app/api?username=YasArcher&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YasArcher&layout=compact&theme=tokyonight)
 
 ---
 
