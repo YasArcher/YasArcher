@@ -48,7 +48,7 @@ Backend-oriented developer with expertise in:
 <div align="center">
 
 ### **Backend & Architecture**
-<img src="https://skillicons.dev/icons?i=dotnet,cs,nodejs,express,flask,fastapi&theme=dark" />
+<img src="https://skillicons.dev/icons?i=dotnet,cs,nodejs,express&theme=dark" />
 
 ### **Frontend & UI**
 <img src="https://skillicons.dev/icons?i=react,typescript,tailwind,html,css,js&theme=dark" />
