@@ -51,11 +51,13 @@ Backend-oriented developer with expertise in:
 <img src="https://skillicons.dev/icons?i=dotnet,cs,nodejs,express,flask,fastapi&theme=dark" />
 
 ### **Frontend & UI**
-<img src="https://skillicons.dev/icons?i=react,typescript,blazor,tailwind,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,typescript,tailwind,html,css,js&theme=dark" />
+<img src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white" height="48"/>
 
 ### **Databases & Analytics**
-<img src="https://skillicons.dev/icons?i=sqlserver,postgresql,mongodb,sqlite,redis&theme=dark" />
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power%20bi&logoColor=black" />
+<img src="https://skillicons.dev/icons?i=postgresql,sqlite&theme=dark" />
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" height="48"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power%20bi&logoColor=black" height="48"/>
 
 ### **DevOps & Tools**
 <img src="https://skillicons.dev/icons?i=azure,git,github,docker,postman,vscode&theme=dark" />
@@ -103,7 +105,6 @@ Backend-oriented developer with expertise in:
 - 🔄 **Automated reporting workflows** - Streamlined processes  
 - 👨‍🎓 **Academic milestone management** - Educational focus
 
-**🚀 Tech Stack:**
 <img src="https://skillicons.dev/icons?i=blazor,dotnet,sqlserver&theme=dark" height="30"/>
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=power%20bi&logoColor=black" height="30"/>
 
@@ -124,7 +125,6 @@ Backend-oriented developer with expertise in:
 - ⚙️ **Real-time configuration** - Dynamic parameters
 - 🎨 **Personalized user interface** - Custom UX
 
-**🚀 Tech Stack:**
 <img src="https://skillicons.dev/icons?i=react,express,sqlserver&theme=dark" height="30"/>
 
 [![Frontend](https://img.shields.io/badge/🎨_Frontend-React-61DAFB?style=flat-square&logo=react&logoColor=white)](https://github.com/Dionisio202/simulador-credito)
@@ -142,10 +142,8 @@ Backend-oriented developer with expertise in:
 **🎯 Key Features:**
 - 📦 **Inventory management** - Stock control system
 - 💵 **Sales tracking** - Revenue analytics
-- 📴 **Offline functionality** - Works without internet
 - 🏪 **Small business focused** - Local commerce support
 
-**🚀 Tech Stack:**
 <img src="https://skillicons.dev/icons?i=kotlin,supabase&theme=dark" height="30"/>
 
 [![Mobile App](https://img.shields.io/badge/📱_Mobile_App-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)](https://github.com/YasArcher/ProyectoMovilKotlin)
@@ -162,15 +160,6 @@ Backend-oriented developer with expertise in:
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=YasArcher&show_icons=true&theme=tokyonight&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasArcher&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
-
-<!-- Backup alternativo con servidores diferentes -->
-<!--
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=YasArcher&show_icons=true&theme=tokyonight"/>
-  <br/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YasArcher&layout=compact&theme=tokyonight"/>
-</div>
--->
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YasArcher&theme=tokyonight&hide_border=true"/>
