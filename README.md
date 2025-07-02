@@ -116,10 +116,9 @@ Backend-oriented developer with expertise in:
 **Key Features:**
 - 📦 Inventory management
 - 💵 Sales tracking
-- 📴 Offline functionality
 - 🏪 Small business focused
 
-**Tech Stack:** Kotlin + SQLite
+**Tech Stack:** Kotlin + SupaBase
 
 [![Mobile App](https://img.shields.io/badge/Mobile_Repo-181717?style=flat-square&logo=github)](https://github.com/YasArcher/ProyectoMovilKotlin)
 
@@ -128,14 +127,12 @@ Backend-oriented developer with expertise in:
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YasArcher&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasArcher&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=YasArcher&show_icons=true&theme=tokyonight&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasArcher&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
-
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YasArcher&theme=tokyonight&hide_border=true"/>
 </div>
-
 ---
 
 ## 🎯 Current Focus
@@ -155,7 +152,7 @@ Backend-oriented developer with expertise in:
 |----------|------|---------|
 | 💼 **LinkedIn** | [Marlon Masabanda](https://www.linkedin.com/in/marlon-masabanda-6b4984239/) | Professional networking |
 | 📧 **Email** | [marlon25.masabanda@proton.me](mailto:marlon25.masabanda@proton.me) | Direct contact |
-| 🌐 **Portfolio** | [Visit Portfolio](https://tu-portafolio.vercel.app/) | View my work |
+| 🌐 **Portfolio** | [Visit Portfolio](https://my-portfolio-six-gray-69.vercel.app/) | View my work |
 | 💻 **GitHub** | [@YasArcher](https://github.com/YasArcher) | Code repositories |
 
 </div>
